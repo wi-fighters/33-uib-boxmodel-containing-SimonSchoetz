@@ -9,4 +9,5 @@
 * Choose a font from google fonts and apply it to the page.
 * Select the `container` class. Give it a width of 80% and center it in the middle of the page.
 ![main-mock](/images/main.png)
-
+-----------
+Just in case you lose the link: https://github.com/wi-fighters/33-uib-boxmodel-containing-SimonSchoetz
